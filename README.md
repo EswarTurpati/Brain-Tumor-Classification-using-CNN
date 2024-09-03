@@ -25,4 +25,8 @@ Note
 Pay attention that The size of the images in this dataset is different. 
 You can resize the image to the desired size after pre-processing and removing the extra margins. This work will improve the accuracy of the model pre-processing code
 
+By clicking below link you can find Kaggle dataset:-
+
+https://www.kaggle.com/code/turpatieswarprasad/brain-tumor-classification-using-cnn 
+
 Thank you 😉
